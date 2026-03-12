@@ -59,6 +59,9 @@ Agile Methodology · Requirements Gathering · UAT · Stakeholder Communication 
 | Artificial Intelligence in Business Strategy | National Association of State Boards of Accountancy (NASBA) | Completed |
 | Agile Analytics | University of Virginia | Completed |
 | Data-Informed Strategic Thinking | International Institute of Business Analysis™ IIBA® | Completed |
+| Microsoft Power Apps: AI Builder | LinkedIn Learning | Completed |
+| Hands-On AI: Build a Generative Language Model from Scratch | LinkedIn | Completed |
+| Visualizing Advanced Charts and Graphs | Project Management Institute (PMI) | Completed | 
 
 ---
 
