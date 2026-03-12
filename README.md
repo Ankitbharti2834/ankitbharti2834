@@ -49,15 +49,15 @@ Agile Methodology · Requirements Gathering · UAT · Stakeholder Communication 
 | Certification | Issuer | Status |
 |---|---|---|
 | IBM Data Analyst | IBM / Coursera | Completed |
-| Microsoft Power BI Data Analyst (PL-300) | Microsoft | In Progress |
+| Microsoft Power BI Data Analyst (PL-300) | Microsoft / LinkedIn | In Progress |
 | Apache Spark SQL | Databricks / Coursera | Completed |
-| Financial Modeling | CFI / Coursera | Completed |
-| Prompt Engineering for Generative AI | DeepLearning.AI | Completed |
-| Agile Analytics | IIBA | Completed |
-| SQL: Data Reporting & Analysis | Codecademy | Completed |
+| SQL: Data Reporting & Analysis | LinkedIn Learning | Completed |
 | Advanced SQL for Data Scientists | LinkedIn Learning | Completed |
 | Python Data Analyst | Udemy | Completed |
-| Artificial Intelligence in Business Strategy | MIT Sloan / Coursera | Completed |
+| Financial Modeling | Internshala | Completed |
+| Prompt Engineering for Generative AI | LinkedIn Learning | Completed |
+| Artificial Intelligence in Business Strategy | National Association of State Boards of Accountancy (NASBA) | Completed |
+| Agile Analytics | University of Virginia | Completed |
 | Data-Informed Strategic Thinking | IIBA® | Completed |
 
 ---
