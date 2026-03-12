@@ -7,7 +7,7 @@ Atlanta, GA | [LinkedIn](https://linkedin.com/in/ankitbharti2834)
 
 I build enterprise-grade BI pipelines, ETL architectures, and AI-powered automation workflows. My work spans Azure cloud infrastructure, Power BI reporting, financial forecasting, and data governance — delivered across defense-adjacent and commercial environments.
 
-## Project Portfolio
+## Most Recent Projects
 
 Project | Key Tools | Impact |
 |---|---|---|
