@@ -21,3 +21,47 @@ Project | Key Tools | Impact |
 ## Tech Stack
 
 `Power BI` `Python` `SQL` `Azure Synapse` `Azure Data Factory` `ADLS Gen2` `Dynamics 365` `Shopify API` `BigQuery` `GPT API` `Power Automate` `MS Fabric` `Excel VBA` `SSRS` `SSIS` `Dataverse`
+
+## Technical Skills
+
+**Automation & AI**  
+Power Automate · Microsoft Copilot · GPT-Powered Workflow Automation · Azure Logic Apps · API Integrations
+
+**Visualization & Business Intelligence**  
+Power BI (Reports, Dashboards, Semantic Models, Pipelines) · Tableau · Advanced Excel · VBA
+
+**Data Engineering & Cloud**  
+Azure Synapse Analytics · Azure Data Factory · Azure Data Lake Storage Gen2 · SSIS · ETL Development · MS Fabric · Azure DevOps · CI/CD
+
+**Languages & Programming**  
+SQL (SQL Server, PostgreSQL) · Python (Pandas, NumPy) · DAX · Power Query
+
+**ERP & Data Sources**  
+Dynamics 365 · Shopify API · Dataverse · BigQuery · ERP Data Modeling
+
+**Process & Delivery**  
+Agile Methodology · Requirements Gathering · UAT · Stakeholder Communication · Technical Documentation
+
+---
+
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| IBM Data Analyst | IBM / Coursera | Completed |
+| Microsoft Power BI Data Analyst (PL-300) | Microsoft | In Progress |
+| Apache Spark SQL | Databricks / Coursera | Completed |
+| Financial Modeling | CFI / Coursera | Completed |
+| Prompt Engineering for Generative AI | DeepLearning.AI | Completed |
+| Agile Analytics | IIBA | Completed |
+| SQL: Data Reporting & Analysis | Codecademy | Completed |
+| Advanced SQL for Data Scientists | LinkedIn Learning | Completed |
+| Python Data Analyst | Udemy | Completed |
+| Artificial Intelligence in Business Strategy | MIT Sloan / Coursera | Completed |
+| Data-Informed Strategic Thinking | IIBA® | Completed |
+
+---
+
+## Core Competencies
+
+Data Pipeline Engineering · Business Intelligence & Dashboard Development · Data Modeling & Warehouse Design · Advanced Analytics · Automation & AI Integration · KPI Reporting & Forecasting · ETL Development & Data Quality Validation · Financial Modeling & Profitability Analysis · E-Commerce Analytics & Customer Segmentation · Compliance & Governance Frameworks (GDPR, HIPAA, DoD) · Agile Methodology & Requirements Gathering · Stakeholder Communication & Executive Reporting · CI/CD Deployment & Version Management · Technical Documentation & User Adoption Support · Project Management & Strategic Planning
