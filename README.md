@@ -58,7 +58,7 @@ Agile Methodology · Requirements Gathering · UAT · Stakeholder Communication 
 | Prompt Engineering for Generative AI | LinkedIn Learning | Completed |
 | Artificial Intelligence in Business Strategy | National Association of State Boards of Accountancy (NASBA) | Completed |
 | Agile Analytics | University of Virginia | Completed |
-| Data-Informed Strategic Thinking | IIBA® | Completed |
+| Data-Informed Strategic Thinking | International Institute of Business Analysis™ IIBA® | Completed |
 
 ---
 
