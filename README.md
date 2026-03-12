@@ -9,7 +9,7 @@ I build enterprise-grade BI pipelines, ETL architectures, and AI-powered automat
 
 ## Project Portfolio
 
-| # | Project | Key Tools | Impact |
+Project | Key Tools | Impact |
 |---|---|---|---|
 [Power BI KPI Dashboard Suite](https://github.com/Ankitbharti2834/aware-cbw-powerbi-kpi-dashboard) | Power BI · Azure Synapse · DAX | 30% faster reporting |
 [ETL Pipeline & Azure Data Warehouse](https://github.com/Ankitbharti2834/aware-cbw-etl-azure-pipeline) | Azure Data Factory · Python · Synapse | 65% faster data loads |
