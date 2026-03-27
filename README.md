@@ -11,6 +11,7 @@ I build enterprise-grade BI pipelines, ETL architectures, and AI-powered automat
 
 Project | Key Tools | Impact |
 |---|---|---|
+[Ai-ChatBot](https://github.com/Ankitbharti2834/AI-Chatbot) | Claude · Anthropic · ChatBot · Serverless | Real-Time Interaction | 
 [Power BI KPI Dashboard Suite](https://github.com/Ankitbharti2834/aware-cbw-powerbi-kpi-dashboard) | Power BI · Azure Synapse · DAX | 30% faster reporting |
 [ETL Pipeline & Azure Data Warehouse](https://github.com/Ankitbharti2834/aware-cbw-etl-azure-pipeline) | Azure Data Factory · Python · Synapse | 65% faster data loads |
 [GPT AI Agent Automation](https://github.com/Ankitbharti2834/aware-cbw-gpt-ai-automation) | GPT API · Power Automate · Logic Apps | 45% less manual processing |
