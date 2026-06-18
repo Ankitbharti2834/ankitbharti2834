@@ -1,7 +1,7 @@
 # Hi, I'm Ankit Bharti 👋
 
 **Data Analytics & Business Intelligence Professional**  
-Atlanta, GA | [LinkedIn](https://linkedin.com/in/ankitbharti2834)
+Atlanta, GA | [LinkedIn](https://linkedin.com/in/a-bharti/)
 
 ---
 
